@@ -96,3 +96,5 @@ Q.idea/sonarlint/securityhotspotstore/5/c/5cc96d253b3c8ffe9b7a9e627016aafae2620f
 Q.idea/sonarlint/securityhotspotstore/e/a/eadc57461c0ac2c9ce3502d1827e8824cc761667,4\a\4aaf169d553f925a7155485e7d81d2cd9397501a
 Å
 Q.idea/sonarlint/securityhotspotstore/f/c/fc65ff9179b1be91e9fc305c6d8ef0935b92e3c8,c\b\cb7ad6d4ae56fc4fdfba1cae811986547b0d1d48
+e
+5src/main/java/edu/icet/repository/BookRepository.java,a\6\a61fa4d75f4cd04529468ef8b83e4b3b897ce647

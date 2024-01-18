@@ -3,7 +3,7 @@ application:
 
 spring:
   datasource:
-    url : jdbc:mysql://localhost:3306/104_institute
+    url : jdbc:mysql://localhost:3306/libraryManage
     password: Thisu@2006
     username: root
   jpa:
