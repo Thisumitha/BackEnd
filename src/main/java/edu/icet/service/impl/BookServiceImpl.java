@@ -1,4 +1,12 @@
 package edu.icet.service.impl;
 
-public class BookServiceImpl {
+import edu.icet.dto.Book;
+import edu.icet.service.BookService;
+
+public class BookServiceImpl implements BookService {
+    @Override
+    public void addBook(Book book) {
+
+    }
+
 }
