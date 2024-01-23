@@ -1,11 +1,10 @@
-application:
-  institute: ICETV3
+spring :
+  datasource :
+    url : jdbc:mysql://localhost:3306/librarymanage
+    username : root
+    password : Thisu@2006
 
-spring:
-  datasource:
-    url : jdbc:mysql://localhost:3306/libraryManage
-    password: Thisu@2006
-    username: root
-  jpa:
-    hibernate:
-      ddl-auto: update
+  jpa :
+    hibernate :
+      ddl-auto : update
+
