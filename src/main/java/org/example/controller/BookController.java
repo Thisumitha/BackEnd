@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.*;
 @RequiredArgsConstructor
 @RestController
 @RequestMapping("/book")
+@CrossOrigin
 public class BookController {
 
     final BookService service;
@@ -23,6 +24,7 @@ public class BookController {
     }
 
     @GetMapping("/get")
+
     public Iterable<BookEntity> getBooks(){
        return service.getBooks();
     }
